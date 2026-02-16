@@ -11,6 +11,9 @@ These projects showcase my ability to work with themes, Liquid templates, and co
 **Store URL:**  
 https://sweet-sips-cafe.myshopify.com/
 
+**Password:**
+cafe
+
 ### 📖 Description
 Sweet Sips Café is a demo Shopify store created to simulate an online café business selling beverages and snacks.  
 The store was built to demonstrate real-world Shopify store setup and customization.
@@ -43,4 +46,5 @@ Planned additions include:
 - Stores in different niches  
 - Advanced theme customization  
 - App integrations  
-- Custom Liquid work  
+- Custom Liquid work
+- Gift Card  
